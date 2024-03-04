@@ -1,8 +1,9 @@
 // bounding boxes
+bboxes
+bbox
 xyxy
 xywh
-unpad
-thres
+letterboxing
 
 // NumPy
 ndarray
@@ -11,6 +12,23 @@ dtype
 arange
 astype
 
+// torch
+autocast
+softmax
+
+// pycocotools
+pycocotools
+
+// metrics
+ious
+gious
+
 // common utilities
+topk
 mixup
 scaleup
+pred
+unpad
+thres
+objectness
+bining
