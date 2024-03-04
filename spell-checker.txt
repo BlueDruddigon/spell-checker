@@ -1,0 +1,6 @@
+// bounding boxes
+xyxy
+xywh
+
+// NumPy
+ndarray
