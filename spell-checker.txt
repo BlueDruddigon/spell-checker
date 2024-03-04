@@ -1,6 +1,16 @@
 // bounding boxes
 xyxy
 xywh
+unpad
+thres
 
 // NumPy
 ndarray
+dsize
+dtype
+arange
+astype
+
+// common utilities
+mixup
+scaleup
