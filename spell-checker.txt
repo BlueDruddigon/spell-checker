@@ -1,6 +1,7 @@
 // bounding boxes
 bboxes
 bbox
+bndbox
 xyxy
 xywh
 letterboxing
