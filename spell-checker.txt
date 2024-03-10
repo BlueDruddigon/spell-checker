@@ -16,6 +16,7 @@ astype
 // torch
 autocast
 softmax
+tensorboard
 
 // pycocotools
 pycocotools
