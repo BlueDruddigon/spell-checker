@@ -13,6 +13,19 @@ dtype
 arange
 astype
 
+// libraries' name
+NumPy
+numpy
+PyTorch
+torch
+torchvision
+torchaudio
+torchtext
+TensorFlow
+tf
+Keras
+keras
+
 // torch
 autocast
 softmax
@@ -22,8 +35,14 @@ tensorboard
 pycocotools
 
 // metrics
+iou
 ious
+giou
 gious
+ciou
+cious
+diou
+dious
 
 // common utilities
 topk
