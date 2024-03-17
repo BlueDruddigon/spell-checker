@@ -4,6 +4,7 @@ bbox
 bndbox
 xyxy
 xywh
+whwh
 letterboxing
 
 // NumPy
