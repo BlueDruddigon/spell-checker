@@ -54,3 +54,11 @@ unpad
 thres
 objectness
 bining
+
+// https://github.com/bluedruddigon/yoloverse.git
+Hardswish
+BNHS
+SPPF
+CSPSPPF
+avgp
+depthwise
